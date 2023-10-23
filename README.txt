@@ -3,4 +3,4 @@ This is a readme file.
 * 1st addition
 * 2nd addition
 *** This is example for stashing
-*** Not a good day today.
+** Today is a great day!
